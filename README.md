@@ -2,6 +2,12 @@
 
 A Windows-based hardware diagnostics and real-time PC system monitoring tool built with C# and .NET.
 
+### Live Dashboard Demo
+
+The application collects system hardware information and displays real-time CPU, GPU, RAM, and other system readings.
+
+![USB Debugger Demo](docs/demo/usb-debugger-demo.gif)
+
 ## Overview
 
 USB Debugger is a Windows application designed to collect and display important hardware and system information from a PC in one place.
