@@ -6,7 +6,7 @@ A Windows-based hardware diagnostics and real-time PC system monitoring tool bui
 
 The application collects system hardware information and displays real-time CPU, GPU, RAM, and other system readings.
 
-![USB Debugger Demo](docs/demo/usb-debugger-demo.gif)
+![USB Debugger Demo](usb-debugger-demo.gif)
 
 ## Overview
 
